@@ -56,7 +56,7 @@ class Permission extends EntrustPermission
             ->whereParent(0)
             ->whereAppear(1)
             ->whereSidebarLink(1) // this is the option to let the sidebar link is happened in side link
-            ->orderBy('ordering', 'asc')
+            ->orderBy('created_at', 'asc')
             ->get();
     }
 
