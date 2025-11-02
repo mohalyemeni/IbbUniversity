@@ -1,0 +1,243 @@
+[
+  {
+    "old_id": 1,
+    "title": {
+      "ar": "الرئيسية",
+      "en": "Home"
+    },
+    "slug": {
+      "ar": "الرئيسية",
+      "en": "home"
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/main-web/",
+      "en": "https://www.ibbuniv.edu.ye/main-web/"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": null,
+    "section": 1,
+    "status": 1
+  },
+  {
+    "old_id": 2,
+    "title": {
+      "ar": "عن الجامعة",
+      "en": "About Us"
+    },
+    "slug": {
+      "ar": "عن-الجامعة",
+      "en": "about-us"
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/main-web/pages/نبذة-عن-الجامعة",
+      "en": "https://www.ibbuniv.edu.ye/main-web/pages/نبذة-عن-الجامعة"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": null,
+    "section": 1,
+    "status": 1
+  },
+  {
+    "old_id": 3,
+    "title": {
+      "ar": "قيادة الجامعة",
+      "en": "Unversity Leaders"
+    },
+    "slug": {
+      "ar": "قيادة-الجامعة",
+      "en": "unversity-leaders"
+    },
+    "link": {
+      "en": null
+    },
+    "icon": "fas fa-archive",
+    "parent_id": null,
+    "section": 1,
+    "status": 0
+  },
+  {
+    "old_id": 4,
+    "title": {
+      "ar": "الكليات",
+      "en": "Colleges"
+    },
+    "slug": {
+      "ar": "الكليات",
+      "en": "colleges"
+    },
+    "link": {
+      "en": null
+    },
+    "icon": "fas fa-archive",
+    "parent_id": null,
+    "section": 1,
+    "status": 0
+  },
+  {
+    "old_id": 5,
+    "title": {
+      "ar": "المراكز",
+      "en": "Centers"
+    },
+    "slug": {
+      "ar": "المراكز",
+      "en": "centers"
+    },
+    "link": {
+      "en": null
+    },
+    "icon": "fas fa-archive",
+    "parent_id": null,
+    "section": 1,
+    "status": 0
+  },
+  {
+    "old_id": 6,
+    "title": {
+      "ar": "البحث العلمي",
+      "en": "Postgraduate & Research"
+    },
+    "slug": {
+      "ar": "الدراسات-العليا-والبحث-العلمي",
+      "en": "postgraduate-research"
+    },
+    "link": {
+      "en": null
+    },
+    "icon": "fas fa-archive",
+    "parent_id": null,
+    "section": 1,
+    "status": 0
+  },
+  {
+    "old_id": 7,
+    "title": {
+      "ar": "المركز الإعلامي",
+      "en": "Media Center"
+    },
+    "slug": {
+      "ar": "المركز-الإعلامي",
+      "en": "media-center"
+    },
+    "link": {
+      "en": null
+    },
+    "icon": "fas fa-archive",
+    "parent_id": null,
+    "section": 1,
+    "status": 0
+  },
+  {
+    "old_id": 8,
+    "title": {
+      "ar": "دليل التواصل",
+      "en": "Contacts"
+    },
+    "slug": {
+      "ar": "دليل-التواصل",
+      "en": "contacts"
+    },
+    "link": {
+      "en": null
+    },
+    "icon": "fas fa-archive",
+    "parent_id": null,
+    "section": 1,
+    "status": 0
+  },
+  {
+    "old_id": 21,
+    "title": {
+      "ar": "كلية الطب والعلوم الصحية",
+      "en": "College of Medicine and Health Sciences"
+    },
+    "slug": {
+      "ar": "كلية-الطب-والعلوم-الصحية-1",
+      "en": "college-of-medicine-and-health-sciences-1"
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/medicine/",
+      "en": "https://www.ibbuniv.edu.ye/medicine/"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 4,
+    "section": 1,
+    "status": 1
+  },
+  {
+    "old_id": 22,
+    "title": {
+      "ar": "كلية طب الاسنان",
+      "en": "College of Dentistry"
+    },
+    "slug": {
+      "ar": "كلية-طب-الاسنان-1",
+      "en": "college-of-dentistry-1"
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/dentist/",
+      "en": "https://www.ibbuniv.edu.ye/dentist/"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 4,
+    "section": 1,
+    "status": 1
+  },
+  {
+    "old_id": 23,
+    "title": {
+      "ar": "كلية الهندسة",
+      "en": "College of Engineering"
+    },
+    "slug": {
+      "ar": "كلية-الهندسة-1",
+      "en": "college-of-engineering-1"
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/engineering/",
+      "en": "https://www.ibbuniv.edu.ye/engineering/"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 4,
+    "section": 1,
+    "status": 1
+  },
+  {
+    "old_id": 24,
+    "title": {
+      "ar": "كلية العلوم الإدارية",
+      "en": "College of Administrative Sciences"
+    },
+    "slug": {
+      "ar": "كلية-العلوم-الإدارية-1",
+      "en": "college-of-administrative-sciences-1"
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/administrative-science/",
+      "en": "https://www.ibbuniv.edu.ye/administrative-science/"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 4,
+    "section": 1,
+    "status": 1
+  },
+  {
+    "old_id": 25,
+    "title": {
+      "ar": "كلية العلوم",
+      "en": "College of Science"
+    },
+    "slug": {
+      "ar": "كلية-العلوم-1",
+      "en": "college-of-science-1"
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/science/",
+      "en": "https://www.ibbuniv.edu.ye/science/"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 4,
+    "section": 1,
+    "status": 1
+  }
+]

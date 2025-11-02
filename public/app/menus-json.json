@@ -1,0 +1,2348 @@
+[
+  {
+    "old_id": 1,
+    "title": {
+      "ar": "الرئيسية",
+      "en": "Home"
+    },
+    "slug": {
+      "ar": "الرئيسية",
+      "en": "home"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/main-web/",
+      "en": "https://www.ibbuniv.edu.ye/main-web/"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": null,
+    "section": 1,
+    "metadata_title": {
+      "ar": "الرئيسية",
+      "en": "Home"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-01-14T07:28:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-01-14T07:28:38.000000Z",
+    "updated_at": "2025-05-31T13:29:41.000000Z"
+  },
+  {
+    "old_id": 2,
+    "title": {
+      "ar": "عن الجامعة",
+      "en": "About Us"
+    },
+    "slug": {
+      "ar": "عن-الجامعة",
+      "en": "about-us"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/main-web/pages/نبذة-عن-الجامعة",
+      "en": "https://www.ibbuniv.edu.ye/main-web/pages/نبذة-عن-الجامعة"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": null,
+    "section": 1,
+    "metadata_title": {
+      "ar": "عن الجامعة",
+      "en": "About Us"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-01-14T07:28:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-01-14T07:29:07.000000Z",
+    "updated_at": "2025-05-31T15:06:34.000000Z"
+  },
+  {
+    "old_id": 3,
+    "title": {
+      "ar": "قيادة الجامعة",
+      "en": "Unversity Leaders"
+    },
+    "slug": {
+      "ar": "قيادة-الجامعة",
+      "en": "unversity-leaders"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "en": null
+    },
+    "icon": "fas fa-archive",
+    "parent_id": null,
+    "section": 1,
+    "metadata_title": {
+      "ar": "قيادة الجامعة",
+      "en": "Unversity Leaders"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 0,
+    "published_on": "2025-01-14T07:29:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-01-14T07:29:46.000000Z",
+    "updated_at": "2025-05-31T09:05:10.000000Z"
+  },
+  {
+    "old_id": 4,
+    "title": {
+      "ar": "الكليات",
+      "en": "Colleges"
+    },
+    "slug": {
+      "ar": "الكليات",
+      "en": "colleges"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "en": null
+    },
+    "icon": "fas fa-archive",
+    "parent_id": null,
+    "section": 1,
+    "metadata_title": {
+      "ar": "الكليات",
+      "en": "Colleges"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 0,
+    "published_on": "2025-01-14T07:29:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-01-14T07:30:01.000000Z",
+    "updated_at": "2025-05-31T09:05:22.000000Z"
+  },
+  {
+    "old_id": 5,
+    "title": {
+      "ar": "المراكز",
+      "en": "Centers"
+    },
+    "slug": {
+      "ar": "المراكز",
+      "en": "centers"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "en": null
+    },
+    "icon": "fas fa-archive",
+    "parent_id": null,
+    "section": 1,
+    "metadata_title": {
+      "ar": "المراكز",
+      "en": "Centers"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 0,
+    "published_on": "2025-01-14T07:30:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-01-14T07:30:23.000000Z",
+    "updated_at": "2025-05-31T09:05:29.000000Z"
+  },
+  {
+    "old_id": 6,
+    "title": {
+      "ar": "البحث العلمي",
+      "en": "Postgraduate & Research"
+    },
+    "slug": {
+      "ar": "الدراسات-العليا-والبحث-العلمي",
+      "en": "postgraduate-research"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "en": null
+    },
+    "icon": "fas fa-archive",
+    "parent_id": null,
+    "section": 1,
+    "metadata_title": {
+      "ar": "الدراسات العليا والبحث العلمي",
+      "en": "Postgraduate & Research"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 0,
+    "published_on": "2025-01-14T07:30:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-01-14T07:31:19.000000Z",
+    "updated_at": "2025-05-31T09:05:37.000000Z"
+  },
+  {
+    "old_id": 7,
+    "title": {
+      "ar": "المركز الإعلامي",
+      "en": "Media Center"
+    },
+    "slug": {
+      "ar": "المركز-الإعلامي",
+      "en": "media-center"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "en": null
+    },
+    "icon": "fas fa-archive",
+    "parent_id": null,
+    "section": 1,
+    "metadata_title": {
+      "ar": "المركز الإعلامي",
+      "en": "Media Center"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 0,
+    "published_on": "2025-01-14T07:32:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-01-14T07:32:53.000000Z",
+    "updated_at": "2025-05-31T09:06:05.000000Z"
+  },
+  {
+    "old_id": 8,
+    "title": {
+      "ar": "دليل التواصل",
+      "en": "Contacts"
+    },
+    "slug": {
+      "ar": "دليل-التواصل",
+      "en": "contacts"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "en": null
+    },
+    "icon": "fas fa-archive",
+    "parent_id": null,
+    "section": 1,
+    "metadata_title": {
+      "ar": "دليل التواصل",
+      "en": "Contacts"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 0,
+    "published_on": "2025-01-14T07:32:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-01-14T07:35:34.000000Z",
+    "updated_at": "2025-05-31T09:06:12.000000Z"
+  },
+  {
+    "old_id": 21,
+    "title": {
+      "ar": "كلية الطب والعلوم الصحية",
+      "en": "College of Medicine and Health Sciences"
+    },
+    "slug": {
+      "ar": "كلية-الطب-والعلوم-الصحية-1",
+      "en": "college-of-medicine-and-health-sciences-1"
+    },
+    "description": {
+      "ar": "<p>كلية الطب والعلوم الصحية</p>",
+      "en": "<p>College of Medicine and Health Sciences</p>"
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/medicine/",
+      "en": "https://www.ibbuniv.edu.ye/medicine/"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 4,
+    "section": 1,
+    "metadata_title": {
+      "ar": "كلية الطب والعلوم الصحية",
+      "en": "College of Medicine and Health Sciences"
+    },
+    "metadata_description": {
+      "ar": "كلية الطب والعلوم الصحية",
+      "en": "College of Medicine and Health Sciences"
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-30T00:43:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-30T00:44:50.000000Z",
+    "updated_at": "2025-05-30T00:44:50.000000Z"
+  },
+  {
+    "old_id": 22,
+    "title": {
+      "ar": "كلية طب الاسنان",
+      "en": "College of Dentistry"
+    },
+    "slug": {
+      "ar": "كلية-طب-الاسنان-1",
+      "en": "college-of-dentistry-1"
+    },
+    "description": {
+      "ar": "<p>كلية طب الاسنان</p>",
+      "en": "<p>College of Dentistry</p>"
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/dentist/",
+      "en": "https://www.ibbuniv.edu.ye/dentist/"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 4,
+    "section": 1,
+    "metadata_title": {
+      "ar": "كلية طب الاسنان",
+      "en": "College of Dentistry"
+    },
+    "metadata_description": {
+      "ar": "كلية طب الاسنان",
+      "en": "College of Dentistry"
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-30T00:44:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-30T00:45:35.000000Z",
+    "updated_at": "2025-05-30T00:45:35.000000Z"
+  },
+  {
+    "old_id": 23,
+    "title": {
+      "ar": "كلية الهندسة",
+      "en": "College of Engineering"
+    },
+    "slug": {
+      "ar": "كلية-الهندسة-1",
+      "en": "college-of-engineering-1"
+    },
+    "description": {
+      "ar": "<p>كلية الهندسة</p>",
+      "en": "<p>College of Engineering</p>"
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/engineering/",
+      "en": "https://www.ibbuniv.edu.ye/engineering/"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 4,
+    "section": 1,
+    "metadata_title": {
+      "ar": "كلية الهندسة",
+      "en": "College of Engineering"
+    },
+    "metadata_description": {
+      "ar": "كلية الهندسة",
+      "en": "College of Engineering"
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-30T00:45:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-30T00:46:24.000000Z",
+    "updated_at": "2025-05-30T00:46:24.000000Z"
+  },
+  {
+    "old_id": 24,
+    "title": {
+      "ar": "كلية العلوم الإدارية",
+      "en": "College of Administrative Sciences"
+    },
+    "slug": {
+      "ar": "كلية-العلوم-الإدارية-1",
+      "en": "college-of-administrative-sciences-1"
+    },
+    "description": {
+      "ar": "<p>كلية العلوم الإدارية</p>",
+      "en": "<p>College of Administrative Sciences</p>"
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/administrative-science/",
+      "en": "https://www.ibbuniv.edu.ye/administrative-science/"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 4,
+    "section": 1,
+    "metadata_title": {
+      "ar": "كلية العلوم الإدارية",
+      "en": "College of Administrative Sciences"
+    },
+    "metadata_description": {
+      "ar": "كلية العلوم الإدارية",
+      "en": "College of Administrative Sciences"
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-30T00:46:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-30T00:47:10.000000Z",
+    "updated_at": "2025-05-30T00:47:10.000000Z"
+  },
+  {
+    "old_id": 25,
+    "title": {
+      "ar": "كلية العلوم",
+      "en": "College of Science"
+    },
+    "slug": {
+      "ar": "كلية-العلوم-1",
+      "en": "college-of-science-1"
+    },
+    "description": {
+      "ar": "<p>كلية العلوم</p>",
+      "en": "<p>College of Science</p>"
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/science/",
+      "en": "https://www.ibbuniv.edu.ye/science/"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 4,
+    "section": 1,
+    "metadata_title": {
+      "ar": "كلية العلوم",
+      "en": "College of Science"
+    },
+    "metadata_description": {
+      "ar": "كلية العلوم",
+      "en": "College of Science"
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-30T00:47:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-30T00:47:53.000000Z",
+    "updated_at": "2025-05-30T00:47:53.000000Z"
+  },
+  {
+    "old_id": 26,
+    "title": {
+      "ar": "كلية الاداب",
+      "en": "College of Arts"
+    },
+    "slug": {
+      "ar": "كلية-الاداب-1",
+      "en": "college-of-arts-1"
+    },
+    "description": {
+      "ar": "<p>كلية الاداب&nbsp;</p>",
+      "en": "<p>College of Arts</p>"
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/arts/",
+      "en": "https://www.ibbuniv.edu.ye/arts/"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 4,
+    "section": 1,
+    "metadata_title": {
+      "ar": "كلية الاداب",
+      "en": "College of Arts"
+    },
+    "metadata_description": {
+      "ar": "كلية الاداب ",
+      "en": "College of Arts"
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-30T00:47:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-30T00:48:40.000000Z",
+    "updated_at": "2025-05-30T00:48:40.000000Z"
+  },
+  {
+    "old_id": 27,
+    "title": {
+      "ar": "كلية الزراعة وعلوم الاغذية",
+      "en": "College of Agriculture and Food Sciences"
+    },
+    "slug": {
+      "ar": "كلية-الزراعة-وعلوم-الاغذية",
+      "en": "college-of-agriculture-and-food-sciences-1"
+    },
+    "description": {
+      "ar": "<p>كلية الزراعة وعلوم الاغذية&nbsp;</p>",
+      "en": "<p>College of Agriculture and Food Sciences</p>"
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/agriculture/",
+      "en": "https://www.ibbuniv.edu.ye/agriculture/"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 4,
+    "section": 1,
+    "metadata_title": {
+      "ar": "كلية الزراعة وعلوم الاغذية",
+      "en": "College of Agriculture and Food Sciences"
+    },
+    "metadata_description": {
+      "ar": "كلية الزراعة وعلوم الاغذية ",
+      "en": "College of Agriculture and Food Sciences"
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-30T00:48:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-30T00:49:29.000000Z",
+    "updated_at": "2025-05-30T00:49:29.000000Z"
+  },
+  {
+    "old_id": 28,
+    "title": {
+      "ar": "كلية القانون",
+      "en": "College of Law"
+    },
+    "slug": {
+      "ar": "كلية-القانون-1",
+      "en": "college-of-law-1"
+    },
+    "description": {
+      "ar": "<p>كلية القانونكلية القانون</p>",
+      "en": "<p>College of Law</p>"
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/law/",
+      "en": "https://www.ibbuniv.edu.ye/law/"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 4,
+    "section": 1,
+    "metadata_title": {
+      "ar": "كلية القانون",
+      "en": "College of Law"
+    },
+    "metadata_description": {
+      "ar": "كلية القانونكلية القانون",
+      "en": "College of Law"
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-30T00:49:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-30T00:50:06.000000Z",
+    "updated_at": "2025-05-30T00:50:06.000000Z"
+  },
+  {
+    "old_id": 29,
+    "title": {
+      "ar": "كلية التربية",
+      "en": "College of Education"
+    },
+    "slug": {
+      "ar": "كلية-التربية-1",
+      "en": "college-of-education-1"
+    },
+    "description": {
+      "ar": "<p>كلية التربية&nbsp;</p>",
+      "en": "<p>College of Education</p>"
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/education/",
+      "en": "https://www.ibbuniv.edu.ye/education/"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 4,
+    "section": 1,
+    "metadata_title": {
+      "ar": "كلية التربية",
+      "en": "College of Education"
+    },
+    "metadata_description": {
+      "ar": "كلية التربية ",
+      "en": "College of Education"
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-30T00:50:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-30T00:50:53.000000Z",
+    "updated_at": "2025-05-30T00:50:53.000000Z"
+  },
+  {
+    "old_id": 30,
+    "title": {
+      "ar": "كلية العلوم التطبيقية والتربوية النادرة",
+      "en": "College of Applied and Rare Educational Sciences"
+    },
+    "slug": {
+      "ar": "كلية-العلوم-التطبيقية-والتربوية-النادرة-1",
+      "en": "college-of-applied-and-rare-educational-sciences-1"
+    },
+    "description": {
+      "ar": "<p>كلية العلوم التطبيقية والتربوية النادرة</p>",
+      "en": "<p>College of Applied and Rare Educational Sciences</p>"
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/alnadirah/",
+      "en": "https://www.ibbuniv.edu.ye/alnadirah/"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 4,
+    "section": 1,
+    "metadata_title": {
+      "ar": "كلية العلوم التطبيقية والتربوية النادرة",
+      "en": "College of Applied and Rare Educational Sciences"
+    },
+    "metadata_description": {
+      "ar": "كلية العلوم التطبيقية والتربوية النادرة",
+      "en": "College of Applied and Rare Educational Sciences"
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-30T00:51:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-30T00:51:45.000000Z",
+    "updated_at": "2025-05-30T00:51:45.000000Z"
+  },
+  {
+    "old_id": 31,
+    "title": {
+      "ar": "الكلية النوعية بالسدة",
+      "en": "Sada Specific College"
+    },
+    "slug": {
+      "ar": "الكلية-النوعية-بالسدة-1",
+      "en": "sada-specific-college-1"
+    },
+    "description": {
+      "ar": "<p>الكلية النوعية بالسدة&nbsp;</p>",
+      "en": "<p>Sada Specific College</p>"
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/specific-education/",
+      "en": "https://www.ibbuniv.edu.ye/specific-education/"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 4,
+    "section": 1,
+    "metadata_title": {
+      "ar": "الكلية النوعية بالسدة",
+      "en": "Sada Specific College"
+    },
+    "metadata_description": {
+      "ar": "الكلية النوعية بالسدة ",
+      "en": "Sada Specific College"
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-30T00:51:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-30T00:52:26.000000Z",
+    "updated_at": "2025-05-30T00:52:26.000000Z"
+  },
+  {
+    "old_id": 32,
+    "title": {
+      "ar": "عن الجامعة",
+      "en": "About the University"
+    },
+    "slug": {
+      "ar": "عن-الجامعة-1",
+      "en": "about-the-university"
+    },
+    "description": {
+      "ar": "<p>عن الجامعة&nbsp;</p>",
+      "en": "<p>About the University</p>"
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/main-web/pages/نبذة-عن-الجامعة",
+      "en": "https://www.ibbuniv.edu.ye/main-web/pages/نبذة-عن-الجامعة"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 2,
+    "section": 1,
+    "metadata_title": {
+      "ar": "عن الجامعة",
+      "en": "About the University"
+    },
+    "metadata_description": {
+      "ar": "عن الجامعة",
+      "en": "About the University"
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-31T08:05:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T08:05:56.000000Z",
+    "updated_at": "2025-05-31T15:08:16.000000Z"
+  },
+  {
+    "old_id": 34,
+    "title": {
+      "ar": "كلمة رئيس الجامعة",
+      "en": "Word from the University President"
+    },
+    "slug": {
+      "ar": "كلمة-رئيس-الجامعة",
+      "en": "word-from-the-university-president"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/main-web/pages/كلمة-رئيس-الجامعة",
+      "en": "https://www.ibbuniv.edu.ye/main-web/pages/كلمة-رئيس-الجامعة"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 2,
+    "section": 1,
+    "metadata_title": {
+      "ar": "كلمة رئيس الجامعة",
+      "en": "Word from the University President"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-31T08:07:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T08:07:39.000000Z",
+    "updated_at": "2025-05-31T08:07:39.000000Z"
+  },
+  {
+    "old_id": 35,
+    "title": {
+      "ar": "رئاسة الجامعة",
+      "en": "University Leadership"
+    },
+    "slug": {
+      "ar": "قيادة-الجامعة-1",
+      "en": "university-leadership"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/main-web/pages/الإدارة-العامة-لمكتب-رئيس-الجامعة",
+      "en": "https://www.ibbuniv.edu.ye/main-web/pages/الإدارة-العامة-لمكتب-رئيس-الجامعة"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 2,
+    "section": 1,
+    "metadata_title": {
+      "ar": "قيادة الجامعة",
+      "en": "University Leadership"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 0,
+    "published_on": "2025-05-31T08:07:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T08:10:02.000000Z",
+    "updated_at": "2025-05-31T17:26:35.000000Z"
+  },
+  {
+    "old_id": 36,
+    "title": {
+      "ar": "مجلس الجامعة",
+      "en": "University Council"
+    },
+    "slug": {
+      "ar": "مجلس-الجامعة",
+      "en": "university-council"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/main-web/category/مجالس-الجامعة",
+      "en": "https://www.ibbuniv.edu.ye/main-web/category/مجالس-الجامعة"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 2,
+    "section": 1,
+    "metadata_title": {
+      "ar": "مجلس الجامعة",
+      "en": "University Council"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-31T08:10:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T08:10:36.000000Z",
+    "updated_at": "2025-05-31T18:03:50.000000Z"
+  },
+  {
+    "old_id": 37,
+    "title": {
+      "ar": "الأمانة العامة للجامعة",
+      "en": "University General Secretariat"
+    },
+    "slug": {
+      "ar": "الأمانة-العامة-للجامعة",
+      "en": "university-general-secretariat"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/main-web/pages/أمين-عام-الجامعة",
+      "en": "https://www.ibbuniv.edu.ye/main-web/pages/أمين-عام-الجامعة"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 2,
+    "section": 1,
+    "metadata_title": {
+      "ar": "الأمانة العامة للجامعة",
+      "en": "University General Secretariat"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-31T08:10:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T08:11:32.000000Z",
+    "updated_at": "2025-05-31T18:18:18.000000Z"
+  },
+  {
+    "old_id": 38,
+    "title": {
+      "ar": "الهيكل التنظيمي",
+      "en": "Organizational Structure"
+    },
+    "slug": {
+      "ar": "الهيكل-التنظيمي",
+      "en": "organizational-structure"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/main-web/pages/الهيكل-التنظيمي",
+      "en": "https://www.ibbuniv.edu.ye/main-web/pages/الهيكل-التنظيمي"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 2,
+    "section": 1,
+    "metadata_title": {
+      "ar": "الهيكل التنظيمي",
+      "en": "Organizational Structure"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-31T08:11:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T08:12:07.000000Z",
+    "updated_at": "2025-05-31T08:12:07.000000Z"
+  },
+  {
+    "old_id": 39,
+    "title": {
+      "ar": "البرامج",
+      "en": "Programs"
+    },
+    "slug": {
+      "ar": "البرامج",
+      "en": "programs"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "en": null
+    },
+    "icon": "fas fa-archive",
+    "parent_id": null,
+    "section": 1,
+    "metadata_title": {
+      "ar": "البرامج",
+      "en": "Programs"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-31T08:12:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T08:18:08.000000Z",
+    "updated_at": "2025-05-31T08:18:08.000000Z"
+  },
+  {
+    "old_id": 40,
+    "title": {
+      "ar": "التنسيق والقبول",
+      "en": "Admission and Registration"
+    },
+    "slug": {
+      "ar": "القبول-والتسجيل",
+      "en": "admission-and-registration"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/main-web/pages/البرامج-والتخصصات-المتاحة",
+      "en": "https://www.ibbuniv.edu.ye/main-web/pages/البرامج-والتخصصات-المتاحة"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 39,
+    "section": 1,
+    "metadata_title": {
+      "ar": "القبول والتسجيل",
+      "en": "Admission and Registration"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-31T08:18:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T08:26:36.000000Z",
+    "updated_at": "2025-05-31T14:58:34.000000Z"
+  },
+  {
+    "old_id": 41,
+    "title": {
+      "ar": "البرامج الاكاديمية",
+      "en": "Academic Programs"
+    },
+    "slug": {
+      "ar": "البرامج-الاكاديمية",
+      "en": "academic-programs"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/main-web/category/البرامج-الاكاديمية",
+      "en": "https://www.ibbuniv.edu.ye/main-web/category/البرامج-الاكاديمية"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 39,
+    "section": 1,
+    "metadata_title": {
+      "ar": "البرامج الاكاديمية",
+      "en": "Academic Programs"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-31T08:26:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T08:27:20.000000Z",
+    "updated_at": "2025-05-31T15:49:22.000000Z"
+  },
+  {
+    "old_id": 42,
+    "title": {
+      "ar": "سجل الان",
+      "en": "Register Now"
+    },
+    "slug": {
+      "ar": "سجل-الان",
+      "en": "register-now"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "ar": "https://oasyemen.net/",
+      "en": "https://oasyemen.net/"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 39,
+    "section": 1,
+    "metadata_title": {
+      "ar": "سجل الان",
+      "en": "Register Now"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-31T08:27:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T08:27:55.000000Z",
+    "updated_at": "2025-05-31T14:52:49.000000Z"
+  },
+  {
+    "old_id": 43,
+    "title": {
+      "ar": "خدمات الطالب",
+      "en": "Student Services"
+    },
+    "slug": {
+      "ar": "خدمات-الطالب",
+      "en": "student-services"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "en": null
+    },
+    "icon": "fas fa-archive",
+    "parent_id": null,
+    "section": 1,
+    "metadata_title": {
+      "ar": "خدمات الطالب",
+      "en": "Student Services"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-31T08:31:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T08:31:48.000000Z",
+    "updated_at": "2025-05-31T08:31:48.000000Z"
+  },
+  {
+    "old_id": 44,
+    "title": {
+      "ar": "نماذج اختبارات القبول",
+      "en": "Admission Test Samples"
+    },
+    "slug": {
+      "ar": "نماذج-اختبارات-القبول-والتنسيق",
+      "en": "admission-test-samples"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/main-web/pages/نماذج-اختبارات-القبول-والتنسيق-للأعوام-السابقة",
+      "en": "https://www.ibbuniv.edu.ye/main-web/pages/نماذج-اختبارات-القبول-والتنسيق-للأعوام-السابقة"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 43,
+    "section": 1,
+    "metadata_title": {
+      "ar": "نماذج اختبارات القبول والتنسيق",
+      "en": "Admission and Coordination Test Samples"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-31T08:31:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T08:33:28.000000Z",
+    "updated_at": "2025-05-31T18:50:00.000000Z"
+  },
+  {
+    "old_id": 45,
+    "title": {
+      "ar": "الإجابة النموذجية لاختبارات القبول والتنسيق",
+      "en": "Model Answers for Admission and Coordination Tests"
+    },
+    "slug": {
+      "ar": "الإجابة-النموذجية-لاختبارات-القبول-والتنسيق",
+      "en": "model-answers-for-admission-and-coordination-tests"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/main-web/pages/الإجابة-النموذجية-لاختبارات-القبول-والتنسيق-إرشيف-1",
+      "en": "https://www.ibbuniv.edu.ye/main-web/pages/الإجابة-النموذجية-لاختبارات-القبول-والتنسيق-إرشيف-1"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 43,
+    "section": 1,
+    "metadata_title": {
+      "ar": "الإجابة النموذجية لاختبارات القبول والتنسيق",
+      "en": "Model Answers for Admission and Coordination Tests"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 0,
+    "published_on": "2025-05-31T08:33:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T08:34:04.000000Z",
+    "updated_at": "2025-05-31T18:47:01.000000Z"
+  },
+  {
+    "old_id": 46,
+    "title": {
+      "ar": "الجداول الامتحانية",
+      "en": "Exam Schedules"
+    },
+    "slug": {
+      "ar": "الجداول-الامتحانية",
+      "en": "exam-schedules"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "en": null
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 43,
+    "section": 1,
+    "metadata_title": {
+      "ar": "الجداول الامتحانية",
+      "en": "Exam Schedules"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 0,
+    "published_on": "2025-05-31T08:36:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T08:37:05.000000Z",
+    "updated_at": "2025-05-31T18:51:08.000000Z"
+  },
+  {
+    "old_id": 47,
+    "title": {
+      "ar": "إرشادات اختبار المفاضلة",
+      "en": "Advanced Exam Guidelines"
+    },
+    "slug": {
+      "ar": "إرشادات-اختبار-المفاضلة",
+      "en": "advanced-exam-guidelines"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/main-web/pages/ارشادات-اختبارات-المفاضلة",
+      "en": "https://www.ibbuniv.edu.ye/main-web/pages/ارشادات-اختبارات-المفاضلة"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 43,
+    "section": 1,
+    "metadata_title": {
+      "ar": "إرشادات اختبار المفاضلة",
+      "en": "Advanced Exam Guidelines"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-31T08:37:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T08:39:04.000000Z",
+    "updated_at": "2025-05-31T18:57:32.000000Z"
+  },
+  {
+    "old_id": 48,
+    "title": {
+      "ar": "دليل الطالب",
+      "en": "Student Guide"
+    },
+    "slug": {
+      "ar": "دليل-الطالب",
+      "en": "student-guide"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "en": null
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 43,
+    "section": 1,
+    "metadata_title": {
+      "ar": "دليل الطالب",
+      "en": "Student Guide"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-31T08:39:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T08:40:17.000000Z",
+    "updated_at": "2025-05-31T08:40:17.000000Z"
+  },
+  {
+    "old_id": 49,
+    "title": {
+      "ar": "التقويم الجامعي",
+      "en": "University Calendar"
+    },
+    "slug": {
+      "ar": "التقويم-الجامعي",
+      "en": "university-calendar"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/main-web/pages/التقويم-الجامعي",
+      "en": "https://www.ibbuniv.edu.ye/main-web/pages/التقويم-الجامعي"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 43,
+    "section": 1,
+    "metadata_title": {
+      "ar": "التقويم الجامعي",
+      "en": "University Calendar"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-31T08:41:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T08:42:18.000000Z",
+    "updated_at": "2025-05-31T08:42:18.000000Z"
+  },
+  {
+    "old_id": 50,
+    "title": {
+      "ar": "بوابة الطالب",
+      "en": "Student Portal"
+    },
+    "slug": {
+      "ar": "بوابة-الطالب",
+      "en": "student-portal"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/main-web/pages/بوابة-الطلبة",
+      "en": "https://www.ibbuniv.edu.ye/main-web/pages/بوابة-الطلبة"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 43,
+    "section": 1,
+    "metadata_title": {
+      "ar": "بوابة الطالب",
+      "en": "Student Portal"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-31T08:42:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T08:43:06.000000Z",
+    "updated_at": "2025-05-31T08:43:06.000000Z"
+  },
+  {
+    "old_id": 51,
+    "title": {
+      "ar": "الجدول الدراسي",
+      "en": "Academic Schedule"
+    },
+    "slug": {
+      "ar": "الجدول-الدراسي",
+      "en": "academic-schedule"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "en": null
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 43,
+    "section": 1,
+    "metadata_title": {
+      "ar": "الجدول الدراسي",
+      "en": "Academic Schedule"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 0,
+    "published_on": "2025-05-31T08:43:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T08:43:32.000000Z",
+    "updated_at": "2025-05-31T18:59:57.000000Z"
+  },
+  {
+    "old_id": 52,
+    "title": {
+      "ar": "السكن الجامعي",
+      "en": "University Housing"
+    },
+    "slug": {
+      "ar": "السكن-الجامعي",
+      "en": "university-housing"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/main-web/category/السكن-الجامعي",
+      "en": "https://www.ibbuniv.edu.ye/main-web/category/السكن-الجامعي"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 43,
+    "section": 1,
+    "metadata_title": {
+      "ar": "السكن الجامعي",
+      "en": "University Housing"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-31T08:43:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T08:44:28.000000Z",
+    "updated_at": "2025-05-31T14:39:07.000000Z"
+  },
+  {
+    "old_id": 53,
+    "title": {
+      "ar": "المكتبة",
+      "en": "Library"
+    },
+    "slug": {
+      "ar": "المكتبة",
+      "en": "library"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "ar": "#",
+      "en": "#"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 43,
+    "section": 1,
+    "metadata_title": {
+      "ar": "المكتبة",
+      "en": "Library"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-31T08:44:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T08:45:08.000000Z",
+    "updated_at": "2025-06-01T13:41:30.000000Z"
+  },
+  {
+    "old_id": 54,
+    "title": {
+      "ar": "الدراسة الجامعية",
+      "en": "Undergraduate Studies"
+    },
+    "slug": {
+      "ar": "الدراسة-الجامعية",
+      "en": "undergraduate-studies"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "en": null
+    },
+    "icon": "fas fa-archive",
+    "parent_id": null,
+    "section": 1,
+    "metadata_title": {
+      "ar": "الدراسة الجامعية",
+      "en": "Undergraduate Studies"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-31T08:46:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T08:46:41.000000Z",
+    "updated_at": "2025-05-31T08:46:41.000000Z"
+  },
+  {
+    "old_id": 55,
+    "title": {
+      "ar": "الكليات",
+      "en": "Colleges"
+    },
+    "slug": {
+      "ar": "الكليات-1",
+      "en": "colleges-1"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/main-web/category/الكليات-2",
+      "en": "https://www.ibbuniv.edu.ye/main-web/category/الكليات-2"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 54,
+    "section": 1,
+    "metadata_title": {
+      "ar": "الكليات",
+      "en": "Colleges"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-31T08:46:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T08:48:17.000000Z",
+    "updated_at": "2025-06-01T14:02:41.000000Z"
+  },
+  {
+    "old_id": 56,
+    "title": {
+      "ar": "المراكز",
+      "en": "Centers"
+    },
+    "slug": {
+      "ar": "المراكز-1",
+      "en": "centers-1"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/main-web/category/المراكز-2",
+      "en": "https://www.ibbuniv.edu.ye/main-web/category/المراكز-2"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 54,
+    "section": 1,
+    "metadata_title": {
+      "ar": "المراكز",
+      "en": "Centers"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-31T08:48:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T08:49:18.000000Z",
+    "updated_at": "2025-06-01T14:54:28.000000Z"
+  },
+  {
+    "old_id": 57,
+    "title": {
+      "ar": "النيابات والعمادات والمراكز",
+      "en": "Deputies and deanships"
+    },
+    "slug": {
+      "ar": "النيابات",
+      "en": "deputies-and-deanships"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "en": null
+    },
+    "icon": "fas fa-archive",
+    "parent_id": null,
+    "section": 1,
+    "metadata_title": {
+      "ar": "النيابات",
+      "en": "Deputies"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-31T08:50:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T08:50:29.000000Z",
+    "updated_at": "2025-06-01T14:55:08.000000Z"
+  },
+  {
+    "old_id": 58,
+    "title": {
+      "ar": "الشؤون الاكاديمية",
+      "en": "Academic Affairs"
+    },
+    "slug": {
+      "ar": "الشؤون-الاكاديمية",
+      "en": "academic-affairs"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/main-web/category/نيابة-الشئون-الأكاديمية-1",
+      "en": "https://www.ibbuniv.edu.ye/main-web/category/نيابة-الشئون-الأكاديمية-1"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 57,
+    "section": 1,
+    "metadata_title": {
+      "ar": "الشؤون الاكاديمية",
+      "en": "Academic Affairs"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-31T08:50:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T08:51:19.000000Z",
+    "updated_at": "2025-05-31T08:51:19.000000Z"
+  },
+  {
+    "old_id": 59,
+    "title": {
+      "ar": "الدراسات العليا",
+      "en": "Graduate Studies"
+    },
+    "slug": {
+      "ar": "الدراسات-العليا",
+      "en": "graduate-studies"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/main-web/category/الدراسات-العليا",
+      "en": "https://www.ibbuniv.edu.ye/main-web/category/الدراسات-العليا"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 57,
+    "section": 1,
+    "metadata_title": {
+      "ar": "الدراسات العليا",
+      "en": "Graduate Studies"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-31T08:52:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T08:52:50.000000Z",
+    "updated_at": "2025-05-31T08:52:50.000000Z"
+  },
+  {
+    "old_id": 60,
+    "title": {
+      "ar": "شؤون الطلاب",
+      "en": "Graduate Studies"
+    },
+    "slug": {
+      "ar": "شؤون-الطلاب",
+      "en": "graduate-studies-1"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/main-web/category/نيابة-شئون-الطلبة-1",
+      "en": "https://www.ibbuniv.edu.ye/main-web/category/نيابة-شئون-الطلبة-1"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 57,
+    "section": 1,
+    "metadata_title": {
+      "ar": "شؤون الطلاب",
+      "en": "Graduate Studies"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-31T08:52:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T08:53:35.000000Z",
+    "updated_at": "2025-05-31T08:53:35.000000Z"
+  },
+  {
+    "old_id": 61,
+    "title": {
+      "ar": "البحث العلمي",
+      "en": "Scientific Research"
+    },
+    "slug": {
+      "ar": "البحث-العلمي",
+      "en": "scientific-research"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "en": null
+    },
+    "icon": "fas fa-archive",
+    "parent_id": null,
+    "section": 1,
+    "metadata_title": {
+      "ar": "البحث العلمي",
+      "en": "Scientific Research"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-31T08:53:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T08:56:05.000000Z",
+    "updated_at": "2025-05-31T08:56:05.000000Z"
+  },
+  {
+    "old_id": 62,
+    "title": {
+      "ar": "مجلة الباحث الجامعي",
+      "en": "University Researcher Magazine"
+    },
+    "slug": {
+      "ar": "مجلة-الباحث-الجامعي",
+      "en": "university-researcher-magazine"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/journals/",
+      "en": "https://www.ibbuniv.edu.ye/journals/"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 61,
+    "section": 1,
+    "metadata_title": {
+      "ar": "مجلة الباحث الجامعي",
+      "en": "University Researcher Magazine"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-31T08:59:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T08:59:54.000000Z",
+    "updated_at": "2025-06-01T18:20:26.000000Z"
+  },
+  {
+    "old_id": 63,
+    "title": {
+      "ar": "المؤتمرات العلمية",
+      "en": "Scientific Conferences"
+    },
+    "slug": {
+      "ar": "المؤتمرات-العلمية",
+      "en": "scientific-conferences"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/main-web/category/مؤتمرات",
+      "en": "https://www.ibbuniv.edu.ye/main-web/category/مؤتمرات"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 61,
+    "section": 1,
+    "metadata_title": {
+      "ar": "المؤتمرات العلمية",
+      "en": "Scientific Conferences"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-31T09:00:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T09:01:01.000000Z",
+    "updated_at": "2025-06-01T18:26:19.000000Z"
+  },
+  {
+    "old_id": 64,
+    "title": {
+      "ar": "ورش العمل",
+      "en": "Workshops"
+    },
+    "slug": {
+      "ar": "ورش-العمل",
+      "en": "workshops"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "en": null
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 61,
+    "section": 1,
+    "metadata_title": {
+      "ar": "ورش العمل",
+      "en": "Workshops"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-31T09:01:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T09:01:26.000000Z",
+    "updated_at": "2025-05-31T09:01:26.000000Z"
+  },
+  {
+    "old_id": 65,
+    "title": {
+      "ar": "جائزة رئيس الجامعة للتميز العلمي",
+      "en": "University President's Award for Academic Excellence"
+    },
+    "slug": {
+      "ar": "جائزة-رئيس-الجامعة-للتميز-العلمي",
+      "en": "university-president-s-award-for-academic-excellence"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/main-web/pages/جائزة-رئيس-الجامعة",
+      "en": "https://www.ibbuniv.edu.ye/main-web/pages/جائزة-رئيس-الجامعة"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 61,
+    "section": 1,
+    "metadata_title": {
+      "ar": "جائزة رئيس الجامعة للتميز العلمي",
+      "en": "University President's Award for Academic Excellence"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-31T09:01:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T09:01:53.000000Z",
+    "updated_at": "2025-05-31T09:02:16.000000Z"
+  },
+  {
+    "old_id": 66,
+    "title": {
+      "ar": "الخريجين",
+      "en": "Graduates"
+    },
+    "slug": {
+      "ar": "الخريجين",
+      "en": "graduates"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "en": null
+    },
+    "icon": "fas fa-archive",
+    "parent_id": null,
+    "section": 1,
+    "metadata_title": {
+      "ar": "الخريجين",
+      "en": "Graduates"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 0,
+    "published_on": "2025-05-31T09:02:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T09:02:51.000000Z",
+    "updated_at": "2025-05-31T15:11:03.000000Z"
+  },
+  {
+    "old_id": 67,
+    "title": {
+      "ar": "التحقق من خريجي الجامعة",
+      "en": "Verification of University Graduates"
+    },
+    "slug": {
+      "ar": "التحقق-من-خريجي-الجامعة",
+      "en": "verification-of-university-graduates"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "en": null
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 66,
+    "section": 1,
+    "metadata_title": {
+      "ar": "التحقق من خريجي الجامعة",
+      "en": "Verification of University Graduates"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-31T09:02:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T09:03:17.000000Z",
+    "updated_at": "2025-05-31T09:03:17.000000Z"
+  },
+  {
+    "old_id": 68,
+    "title": {
+      "ar": "فرص عمل للخريجين",
+      "en": "Job Opportunities for Graduates"
+    },
+    "slug": {
+      "ar": "فرص-عمل-للخريجين",
+      "en": "job-opportunities-for-graduates"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "en": null
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 66,
+    "section": 1,
+    "metadata_title": {
+      "ar": "فرص عمل للخريجين",
+      "en": "Job Opportunities for Graduates"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-31T09:03:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T09:03:42.000000Z",
+    "updated_at": "2025-05-31T09:03:42.000000Z"
+  },
+  {
+    "old_id": 69,
+    "title": {
+      "ar": "عمادة التعاون الدولي والعلاقات الثقافية",
+      "en": "Deanship of International Cooperation and Cultural Relations"
+    },
+    "slug": {
+      "ar": "عمادة-التعاون-الدولي-والعلاقات-الثقافية",
+      "en": "deanship-of-international-cooperation-and-cultural-relations"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/main-web/pages/عمادة-التعاون-الدولي-والعلاقات-الثقافية",
+      "en": "https://www.ibbuniv.edu.ye/main-web/pages/عمادة-التعاون-الدولي-والعلاقات-الثقافية"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 57,
+    "section": 1,
+    "metadata_title": {
+      "ar": "عمادة التعاون الدولي والعلاقات الثقافية",
+      "en": "Deanship of International Cooperation and Cultural Relations"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-31T13:04:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T13:05:15.000000Z",
+    "updated_at": "2025-05-31T13:05:15.000000Z"
+  },
+  {
+    "old_id": 70,
+    "title": {
+      "ar": "عمادة شؤون المكتبات",
+      "en": "Deanship of Library Affairs"
+    },
+    "slug": {
+      "ar": "عمادة-شؤون-المكتبات",
+      "en": "deanship-of-library-affairs"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/main-web/pages/عمادة-شئون-المكتبات-1",
+      "en": "https://www.ibbuniv.edu.ye/main-web/pages/عمادة-شئون-المكتبات-1"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 57,
+    "section": 1,
+    "metadata_title": {
+      "ar": "عمادة شؤون المكتبات",
+      "en": "Deanship of Library Affairs"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-31T13:05:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-05-31T13:07:41.000000Z",
+    "updated_at": "2025-05-31T13:07:41.000000Z"
+  },
+  {
+    "old_id": 71,
+    "title": {
+      "ar": "مركز التطوير وضمان الجودة",
+      "en": "مركز التطوير وضمان الجودة"
+    },
+    "slug": {
+      "ar": "مركز-التطوير-وضمان-الجودة",
+      "en": "مركز-التطوير-وضمان-الجودة"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/main-web/category/مركز-التطوير-وضمان-الجودة",
+      "en": "https://www.ibbuniv.edu.ye/main-web/category/مركز-التطوير-وضمان-الجودة"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 57,
+    "section": 1,
+    "metadata_title": {
+      "ar": "مركز التطوير وضمان الجودة",
+      "en": "مركز التطوير وضمان الجودة"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-06-01T03:42:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-06-01T15:42:48.000000Z",
+    "updated_at": "2025-06-01T15:50:51.000000Z"
+  },
+  {
+    "old_id": 72,
+    "title": {
+      "ar": "دائرة التعاون الدولي والعلاقات الثقافية",
+      "en": "Directorate of International Cooperation & Relations"
+    },
+    "slug": {
+      "ar": "دائرة-التعاون-الدولي-والعلاقات-الثقافية",
+      "en": "directorate-of-international-cooperation-relations"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/main-web/category/دائرة-التعاون-الدولي-والعلاقات-الثقافية",
+      "en": "https://www.ibbuniv.edu.ye/main-web/category/دائرة-التعاون-الدولي-والعلاقات-الثقافية"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 57,
+    "section": 1,
+    "metadata_title": {
+      "ar": "دائرة التعاون الدولي والعلاقات الثقافية",
+      "en": "Directorate of International Cooperation & Relations"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-06-01T18:10:00.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-06-01T18:10:53.000000Z",
+    "updated_at": "2025-06-01T18:10:53.000000Z"
+  },
+  {
+    "old_id": 73,
+    "title": {
+      "ar": "نتائج القبول والمفاضلة",
+      "en": "نتائج القبول والمفاضلة"
+    },
+    "slug": {
+      "ar": "نتائج-القبول-والمفاضلة",
+      "en": "نتائج-القبول-والمفاضلة"
+    },
+    "description": {
+      "en": null
+    },
+    "link": {
+      "ar": "https://www.ibbuniv.edu.ye/enrollment.php",
+      "en": "https://www.ibbuniv.edu.ye/enrollment.php"
+    },
+    "icon": "fas fa-archive",
+    "parent_id": 43,
+    "section": 1,
+    "metadata_title": {
+      "ar": "نتائج القبول والمفاضلة",
+      "en": "نتائج القبول والمفاضلة"
+    },
+    "metadata_description": {
+      "en": null
+    },
+    "metadata_keywords": {
+      "en": null
+    },
+    "status": 1,
+    "published_on": "2025-05-31T08:37:05.000000Z",
+    "created_by": "Admin System",
+    "updated_by": null,
+    "deleted_by": null,
+    "deleted_at": null,
+    "created_at": "2025-06-01T18:34:29.000000Z",
+    "updated_at": "2025-06-01T18:37:17.000000Z"
+  }
+]

@@ -1,0 +1,4 @@
+[12-Jan-2025 22:15:37 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '/home4/ibbunive/public_html/faculty-of-medicine/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home4/ibbunive/public_html/faculty-of-medicine/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home4/ibbunive/public_html/faculty-of-medicine/public/index.php on line 34
