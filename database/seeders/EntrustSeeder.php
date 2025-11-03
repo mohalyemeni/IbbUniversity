@@ -113,18 +113,18 @@ class EntrustSeeder extends Seeder
             $random_customer = User::create([
                 'first_name' => $faker->firstName,
                 'last_name' => $faker->lastName,
-                'username' => $faker->unique()->userName,
+                'username' => 'admin'.$i,
                 'email' => $faker->unique()->email,
                 'email_verified_at' => now(),
                 'mobile' => '0096777' . $faker->numberBetween(1000000, 9999999),
-                'password' => bcrypt('123123123'),
+                'password' => bcrypt('12341234'),
                 'user_image' => 'avator.svg',
                 'status' => 1,
                 'remember_token' => Str::random(10),
             ]);
 
             //Add customerRole to RandomCusomer
-            $random_customer->attachRole($customerRole);
+            $random_customer->attachRole($adminRole);
         } //end for
 
 
